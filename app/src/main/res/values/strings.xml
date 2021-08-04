@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Digital DICE</string>
+    <string name="rollbuttonmsg">Press to roll dice</string>
+</resources>
