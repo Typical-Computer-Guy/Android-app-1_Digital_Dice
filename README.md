@@ -1,6 +1,6 @@
 # Android-app-1_Digital_Dice
-Download zip file
-extract zip file
-now open android studio
-click on file-> open and select the extracted folder
-Now you have the source code and resources
+1)Download zip file
+2)extract zip file
+3)now open android studio
+4)click on file-> open and select the extracted folder
+5)Now you have the source code and resources
